@@ -1,21 +1,10 @@
-# Modern Awesome Responsive Website Using React and Vite
-[Source](https://www.youtube.com/watch?v=_oO4Qi5aVZs)
---- ---
-## Hown to run code
+# HooBank - Modern UI/UX website using React.js & Tailwind CSS
 
-```bash
-cd BANK_MODERN_APP
-# To install the necessary packages
-npm install
-# To run the dev server
-npm run dev
-```
---- ---
-## Dependencies
+![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
-- Run following commands
-```shell
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-```
---- ---
+
+### Showcase your dev skills with practical experience and land the coding career of your dreams
+💻 JS Mastery Pro - https://jsmastery.pro/youtube
+✅ A special YOUTUBE discount code is automatically applied!
+
+📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
