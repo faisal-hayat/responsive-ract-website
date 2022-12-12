@@ -2,9 +2,9 @@ import React from "react";
 
 function Button(props){
   return(
-    <div>
-      Button
-    </div>
+    <button className={`py-4 px-6 bg-blue-gradient font-poppins font-medium text-[18px] text-primary outline-none ${props.styles}`} type="button" >
+      Get Started
+    </button>
   )
 }
 
